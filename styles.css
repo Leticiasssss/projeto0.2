@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #FF862A;
+    --laranja-claro: #a71717;
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: #ffd700;
+    --alto-contraste-link: #990b0b;
 }
 
 body {
@@ -24,7 +24,7 @@ section {
 
 
 .nav-link {
-    color: #CB6D43;
+    color: #a36d26;
     font-weight: 600;
 }
 
@@ -79,7 +79,7 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/flor.png') top right no-repeat,
+    background: url('img./depositphotos_66606635-stock-photo-black-hand-of-death-the.jpg') top right no-repeat,
         url('img/flor-esquerda.png') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
@@ -108,7 +108,7 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img./depositphotos_66606635-stock-photo-black-hand-of-death-the.jpg') bottom right no-repeat;
+    background: url('img./fun3.webp') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
